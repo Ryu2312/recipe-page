@@ -19,7 +19,7 @@ Este proyecto es una página web diseñada para mostrar recetas de cocina de man
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/recipe-page-main.git
+    git clone https://github.com/Ryu2312/recipe-page.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
