@@ -1,48 +1,40 @@
-# Astro Starter Kit: Basics
+# Recipe Page
 
-```sh
-pnpm create astro@latest -- --template basics
-```
+Este proyecto es una página web diseñada para mostrar recetas de cocina de manera atractiva y funcional.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Características
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- Diseño responsivo.
+- Listado de recetas con imágenes y descripciones.
+- Filtros para buscar recetas por categoría o ingredientes.
+- Fácil de personalizar y expandir.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## Tecnologías utilizadas
 
-## 🚀 Project Structure
+- **HTML5**: Estructura del contenido.
+- **CSS3**: Estilos y diseño responsivo.
+- **JavaScript**: Interactividad y funcionalidad.
 
-Inside of your Astro project, you'll see the following folders and files:
+## Instalación
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/tu-usuario/recipe-page-main.git
+    ```
+2. Navega al directorio del proyecto:
+    ```bash
+    cd recipe-page-main
+    ```
+3. Abre el archivo `index.html` en tu navegador.
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## Contribuciones
 
-## 🧞 Commands
+¡Las contribuciones son bienvenidas! Si deseas colaborar, por favor abre un issue o envía un pull request.
 
-All commands are run from the root of the project, from a terminal:
+## Licencia
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-## 👀 Want to learn more?
+## Contacto
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Si tienes preguntas o sugerencias, no dudes en contactarme en [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com).
